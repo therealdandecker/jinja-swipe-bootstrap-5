@@ -16,6 +16,7 @@
     "engines": {
         "node": ">=10.0.0"
     },
-    "dependencies": {},
-    "devDependencies": {}
+    "dependencies": {
+        "datepicker": "^0.0.0"
+    }
 }
